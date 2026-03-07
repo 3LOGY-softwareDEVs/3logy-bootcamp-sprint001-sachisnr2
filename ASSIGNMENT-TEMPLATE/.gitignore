@@ -1,0 +1,101 @@
+# ==========================================
+# Sprint 01 - .gitignore Template
+# ==========================================
+# This file tells Git which files/folders to ignore
+# (i.e., not track in version control)
+
+# ==========================================
+# Node.js
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ==========================================
+# Operating System Files
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# ==========================================
+# Editor & IDE Files
+# ==========================================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs (WebStorm, IntelliJ, etc.)
+.idea/
+*.iml
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ==========================================
+# Logs & Temporary Files
+# ==========================================
+*.log
+logs/
+*.tmp
+*.temp
+temp/
+tmp/
+
+# ==========================================
+# Environment Variables
+# ==========================================
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# ==========================================
+# Build & Output Directories
+# ==========================================
+dist/
+build/
+out/
+coverage/
+
+# ==========================================
+# Project-Specific (Add Your Own)
+# ==========================================
+
+# Example: If you create backup files
+# backup/
+# *.backup
+
+# Example: If you have test data
+# test-data/
+
+# Add any other files you don't want in Git below:

@@ -1,0 +1,18 @@
+# Optional Documentation Folder
+
+This folder is for any additional documentation you want to include with your project.
+
+## Examples of What You Can Put Here:
+
+- **features.md** - Detailed breakdown of features
+- **design-notes.md** - Your design decisions and planning
+- **testing-notes.md** - Manual testing results
+- **screenshots/** - Folder for program screenshots
+- **peer-review.md** - Peer review feedback notes
+- **reflections.md** - Daily development reflections
+
+## Note:
+
+This folder is **optional**. If you don't need it, you can delete it or leave it empty.
+
+The main documentation should be in your **README.md** at the root of the project.
